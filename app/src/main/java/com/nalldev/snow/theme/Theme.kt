@@ -1,4 +1,4 @@
-package com.nalldev.snow.presentation.theme
+package com.nalldev.snow.theme
 
 import androidx.compose.runtime.Composable
 import androidx.wear.compose.material.MaterialTheme
